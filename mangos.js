@@ -9,7 +9,7 @@ class Mangoes{
         }
         this.body=Bodies.circle(a,b,c,option);
         World.add(world,this.body);
-        this.image = loadImage("plucking mangoes/mango.png");
+        this.image = loadImage("Plucking mangoes/mango.png");
         this.rad=c
     }
 
